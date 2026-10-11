@@ -1,1 +1,1 @@
-# asset-service
+# @nuxt4-layers/asset-service
